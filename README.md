@@ -1,4 +1,5 @@
-BUS RESERVATION - CLI Application 
+BUS RESERVATION - CLI Application
+
 The Bus Reservation System is a feature-rich application developed using Java, leveraging custom data 
 structures and comprehensive file handling to ensure efficient bus reservations and schedule management. The 
 system provides a seamless and user-friendly platform for customers, bus owners, and administrators, focusing 
